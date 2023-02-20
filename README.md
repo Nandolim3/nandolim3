@@ -1,7 +1,7 @@
 ## Oi!!! Eu sou Fernando Lima
 
 - 🔭 Hoje trabalho autonômo
-- 🌱 Estudando Analise e Desenvolvimento de Sistemas
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 💬 Contate-me no email: nandolim3@gmail.com
 - 😄 Pronouns: Ele
 
